@@ -1,0 +1,14 @@
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\bin\Debug\net8.0\LaboClasses.exe
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\bin\Debug\net8.0\LaboClasses.deps.json
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\bin\Debug\net8.0\LaboClasses.runtimeconfig.json
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\bin\Debug\net8.0\LaboClasses.dll
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\bin\Debug\net8.0\LaboClasses.pdb
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\obj\Debug\net8.0\LaboClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\obj\Debug\net8.0\LaboClasses.AssemblyInfoInputs.cache
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\obj\Debug\net8.0\LaboClasses.AssemblyInfo.cs
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\obj\Debug\net8.0\LaboClasses.csproj.CoreCompileInputs.cache
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\obj\Debug\net8.0\LaboClasses.dll
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\obj\Debug\net8.0\refint\LaboClasses.dll
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\obj\Debug\net8.0\LaboClasses.pdb
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\obj\Debug\net8.0\LaboClasses.genruntimeconfig.cache
+C:\Users\12503548\GIT\LaboClasses\LaboClasses\obj\Debug\net8.0\ref\LaboClasses.dll
